@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALA Nallasopara Healing Meeting</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #0056b3;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 10px 0;
+        }
+        .event-details {
+            background-color: #fff;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .cta {
+            margin: 20px 0;
+        }
+        .cta a {
+            display: inline-block;
+            padding: 15px 25px;
+            background-color: #0056b3;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2rem;
+            transition: background-color 0.3s;
+        }
+        .cta a:hover {
+            background-color: #003d80;
+        }
+        footer {
+            margin-top: 30px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>ALA Nallasopara Healing Meeting</h1>
+        <div class="event-details">
+            <p><strong>Dates:</strong> 9th February 2025 & 10th February 2025</p>
+            <p><strong>Location:</strong> <a href="https://g.co/kgs/Tp1ns1A" target="_blank">401209, Neminath Nagar, Yashvant Viva Twp, Nalasopara East, Nala Sopara, Maharashtra 401209</a></p>
+            <p><strong>Speakers:</strong></p>
+            <ul style="list-style-type: none; padding: 0;">
+                <li>Pastor Kumar Bhove</li>
+                <li>Pastor Suresh Poojari</li>
+            </ul>
+        </div>
+        <div class="cta">
+            <a href="#">Register Now</a>
+        </div>
+        <footer>
+            <p>&copy; 2025 ALA Nallasopara Healing Meeting. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
